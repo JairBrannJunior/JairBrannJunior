@@ -11,7 +11,7 @@ Finalizando meu bacharelado em Engenharia de Software na UTFPR de Cornélio Proc
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=JairBrannJunior&show_icons=true&hide_border=true&hide_title=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=JairBrannJunior&show_icons=true&hide_title=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JairBrannJunior&show_icons=true&hide_border=true&hide_title=true" />
@@ -23,7 +23,7 @@ Finalizando meu bacharelado em Engenharia de Software na UTFPR de Cornélio Proc
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JairBrannJunior&layout=compact&hide_border=true&hide_progress=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JairBrannJunior&layout=compact&hide_progress=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairBrannJunior&layout=compact&theme=dark&hide_border=true&hide_progress=true" />
