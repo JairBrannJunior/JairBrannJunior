@@ -47,6 +47,17 @@ Finalizando meu bacharelado em Engenharia de Software na UTFPR de Cornélio Proc
 Email: jairjunior02@hotmail.com
 <br>
 <br>
-<a href="https://www.linkedin.com/in/jairbrannjunior" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
+<picture>
+  <source
+    srcset="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://img.icons8.com/?size=100&id=98960&format=png&color=000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <a href="https://www.linkedin.com/in/jairbrannjunior" target="_blank"><img align="left" alt="LinkedIn" width="40px" height="40px" src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000" />  
+</picture> 
           
           
