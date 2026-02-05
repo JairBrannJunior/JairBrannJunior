@@ -1,8 +1,8 @@
 ## Jair Brann Junior
 
-Tenho 24 anos sou de Goias mas morei praticamente minha vida toda no Mato Grosso e hoje moro em Sinop - MT. <br>
-Atuando há 5 anos como desenvolvedor Web Full Stack na empresa Forlogic, trabalhando diretamente em um dos seus produtos: o Qualiex, software líder no Brasil voltado a qualidade. <br>
-Finalizando meu bacharelado em Engenharia de Software na UTFPR de Cornélio Procópio - PR.
+Tenho 25 anos sou de Goias mas morei praticamente minha vida toda no Mato Grosso e hoje moro em Cornélio Procópio - PR. <br>
+Atuando há 6 anos como desenvolvedor Web Full Stack na empresa Forlogic, trabalhando diretamente em um dos seus produtos: o Qualiex, software líder no Brasil voltado a qualidade. <br>
+Formado em Engenharia de Software pela UTFPR de Cornélio Procópio - PR.
 
 <p align="center">
   <picture>
